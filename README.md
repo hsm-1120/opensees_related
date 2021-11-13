@@ -1,7 +1,7 @@
 # opensees files
 ## preprocessing
 ### build model
-branch
-section dividing
+#### **branch**
+**section dividing**
 ## postprocessing
 ### plot
